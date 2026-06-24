@@ -24,12 +24,3 @@ You can try out the deployed application here:
 - **API Integration:** Requests library via [ExchangeRate-API](https://www.exchangerate-api.com/)
 
 ---
-
-## 💻 Local Setup & Installation
-
-If you want to run this project locally on your machine, follow these steps:
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/Currency_converter.git](https://github.com/YOUR_USERNAME/Currency_converter.git)
-   cd Currency_converter
