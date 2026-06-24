@@ -5,7 +5,7 @@ A lightweight, real-time currency conversion web application built with Python a
 ## 🚀 Live Demo
 
 You can try out the deployed application here: 
-👉 **[Live Streamlit App](https://arjunchawla0505-cmd-currency-converter-app-kfywvg.streamlit.app/)** *(Replace this link with your actual Streamlit deployment URL)*
+👉 **[Live Streamlit App](https://arjunchawla0505-cmd-currency-converter-app-kfywvg.streamlit.app/)** 
 
 ---
 
